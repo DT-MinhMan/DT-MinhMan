@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-As a recent Information Technology graduate from Saigon University eager to kickstart my career as an Intern Developer, I bring a solid foundation in software engineering and hands-on experience with modern tech stacks like React.js and Node.js[cite: 1].
+As a recent Information Technology graduate from Saigon University eager to kickstart my career as an Intern Developer, I bring a solid foundation in software engineering and hands-on experience with modern tech stacks like React.js and Node.js.
 
-- 🎓 **Education**: The Degree of Engineer, Saigon University (2021 - 2026) | VSTEP Level B2[cite: 1]
-- 💼 **Experience**: Former Intern Fullstack Developer at Automation Land (SDLC Platform)[cite: 1]
+- 🎓 **Education**: The Degree of Engineer, Saigon University (2021 - 2026) | VSTEP Level B2
+- 💼 **Experience**: Former Intern Fullstack Developer at Automation Land (SDLC Platform)
 - 🎯 **Focus**: Fullstack Development, API Design, Real-time Applications
-- 📫 **Contact**: 0987 397 673 | mando150903@gmail.com | 628 Trần Đại Nghĩa, Bình Chánh, TPHCM[cite: 1]
+- 📫 **Contact**: 0987 397 673 | mando150903@gmail.com | 628 Trần Đại Nghĩa, Bình Chánh, TPHCM
 
 ---
 
@@ -41,47 +41,73 @@ As a recent Information Technology graduate from Saigon University eager to kick
 ### 🚀 Experience
 
 #### 💼 SDLC Platform - Automation Land | Intern Fullstack Developer
-*Mar 2026 - Jun 2026*[cite: 1]
-- Built authentication system (SSO, MFA, JWT) securing all API routes with session verification latency < 50ms[cite: 1].
-- Managed Sprint lifecycles using MongoDB Transactions, migrating unfinished tasks in < 100ms[cite: 1].
-- Developed real-time editor (Yjs, WebSockets) supporting 4+ concurrent users (< 100ms sync) and reduced socket connections by ~70% using BroadcastChannel[cite: 1].
-- Implemented full-text search across 5+ data types using Mongoose cursor pagination (< 150ms response), cutting API load by ~70% with debouncing[cite: 1].
+*Mar 2026 - Jun 2026*
+- Built authentication system (SSO, MFA, JWT) securing all API routes with session verification latency < 50ms.
+- Managed Sprint lifecycles using MongoDB Transactions, migrating unfinished tasks in < 100ms.
+- Developed real-time editor (Yjs, WebSockets) supporting 4+ concurrent users (< 100ms sync) and reduced socket connections by ~70% using BroadcastChannel.
+- Implemented full-text search across 5+ data types using Mongoose cursor pagination (< 150ms response), cutting API load by ~70% with debouncing.
 
 ---
 
 ### 📂 Featured Projects
 
-#### 💬 Chat & Call Real Time
-*Jun 2026 - Jul 2026* | [Live Demo](https://chat-real-timefrontend.vercel.app/)[cite: 1]
-- **Tech**: MongoDB, Express, React, Node.js, Tailwind CSS, Zustand, Socket.IO, WebRTC[cite: 1]
-- Built real-time messaging with Socket.IO; applied inverse infinite scroll reducing payload by ~80%[cite: 1].
-- Integrated WebRTC voice/video calling, reducing connection latency to < 1.5s[cite: 1].
-- Secured endpoints using dual-token authentication (JWT, HttpOnly cookie) and deployed 15+ REST APIs[cite: 1].
+# 💬 Chat & Call Real Time
+*Feb 2026 - Apr 2026* | [Live Demo](https://chat-real-timefrontend.vercel.app/)
 
-#### 🛒 Zenliving E-Commerce web
-*Feb 2026 - Apr 2026* | [Live Demo](https://e-commerce-website-frontend-nk3f.vercel.app/)[cite: 1]
-- **Tech**: MERN Stack, TypeScript, TanStack Query, Stripe API[cite: 1]
-- Integrated Stripe Checkout & Webhooks with MongoDB Transactions for safe, atomic inventory updates[cite: 1].
-- Implemented catalog filtering & cart sync with TanStack Query[cite: 1].
-- Built and deployed 20+ REST APIs with Swagger docs for auth, catalog, cart, and orders[cite: 1].
+<img width="1905" height="903" alt="Screenshot 2026-08-18 183202" src="https://github.com/user-attachments/assets/54e2561a-cfa2-4e80-8440-6741930506f8" />
+<img width="1905" height="917" alt="Screenshot 2026-08-18 183139" src="https://github.com/user-attachments/assets/f4cd00ee-b032-4bf8-92be-fd1ae6863569" />
 
----
+### A production-ready real-time chat & video calling web application featuring low-latency communication, structured state management, and containerized deployment.
 
-### 🌱 Current Focus
-- Xây dựng và tối ưu hóa hệ thống frontend authentication cho dự án **antigravity**.
-- Triển khai bảo mật đa lớp: **SSO (Google/Microsoft), MFA (TOTP), và quản lý phân quyền (RBAC)**.
-- ⚡ **Workflow:** Kết hợp linh hoạt giữa phương pháp **vibe code** và quy trình quản lý phiên bản nghiêm ngặt trên Git/GitHub.
+- **Frontend:** React 19, TypeScript, Vite, React Router v7, Zustand, Tailwind CSS v4, Shadcn UI / Radix UI, Socket.io-client
+- **Backend:** Node.js, Express.js (v5), RESTful APIs, Socket.io (Signaling Server), WebRTC (P2P Audio/Video)
+- **Database:** MongoDB & Mongoose ORM
+- **DevOps/Infra:** Docker & Docker Compose
+- **Key Features:** Instant messaging, 1-on-1 WebRTC audio/video calls, media attachments (Cloudinary), online/offline status tracking, clean scalable architecture.
+
+### What I do in this project:
+🟢 Built real-time messaging with Socket.IO, applied inverse infinite scroll to reduce initial payload by ~80%.
+
+🟢 Integrated WebRTC voice/video calling, reducing connection latency to < 1.5s.
+
+🟢 Secured private API endpoints using dual-token authentication (JWT, HttpOnly cookie) and custom middleware.
+
+🟢 Built and deployed 15+ REST APIs for auth, social, and chat features across Vercel and Render.
+
+# 🛒 Zenliving E-Commerce web
+*Jun 2026 - Jul 2026* | [Live Demo](https://e-commerce-website-frontend-nk3f.vercel.app/)
+
+<img width="1887" height="892" alt="Screenshot 2026-08-18 183413" src="https://github.com/user-attachments/assets/ae54f4d2-771c-4540-88b4-aa84862bd0bc" />
+<img width="1876" height="785" alt="Screenshot 2026-08-18 183431" src="https://github.com/user-attachments/assets/bfeb5a60-5c3f-4963-a07d-b7fdc23c9cf9" />
+
+### A production-ready e-commerce web application featuring high-performance rendering, structured state management, and containerized deployment.
+- **Frontend:** React 19, TypeScript, Vite, React Router, TanStack Query, Zustand
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB & Mongoose ORM
+- **DevOps/Infra:** Docker & Docker Compose
+- **Key Features:** Product catalog, real-time cart handling, server-state caching, clean scalable architecture.
+
+### What I do in this project:
+🟢 Secured private API endpoints using dual-token authentication (JWT, HttpOnly cookie) and custom middleware.
+
+🟢 Implemented catalog filtering & cart sync with TanStack Query and URL search params for seamless UI state.
+
+🟢 Integrated Stripe Checkout and Webhooks with MongoDB Transactions for safe, atomic inventory updates.
+
+🟢 Built and deployed 20+ REST APIs with Swagger docs for auth, catalog, cart, and orders across Vercel & Render.
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DT-MinhMan/DT-MinhMan/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
+
+
 
 ---
 <p align="center"><i>Let's build something amazing together! 🚀</i></p>
