@@ -12,10 +12,10 @@
 
 As a recent Information Technology graduate from Saigon University eager to kickstart my career as an Intern Developer, I bring a solid foundation in software engineering and hands-on experience with modern tech stacks like React.js and Node.js.
 
-- 🎓 **Education**: The Degree of Engineer, Saigon University (2021 - 2026) | VSTEP Level B2
+- 🎓 **Education**: The Degree of Engineer, Saigon University (2021 - 2026) | VSTEP 4 skills Level B2
 - 💼 **Experience**: Former Intern Fullstack Developer at Automation Land (SDLC Platform)
 - 🎯 **Focus**: Fullstack Development, API Design, Real-time Applications
-- 📫 **Contact**: 0987 397 673 | mando150903@gmail.com | 628 Trần Đại Nghĩa, Bình Chánh, TPHCM
+- 📫 **Contact**: 0353729760 | mando150903@gmail.com | 628 Trần Đại Nghĩa, Bình Chánh, TPHCM
 
 ---
 
